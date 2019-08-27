@@ -1,0 +1,1 @@
+let app = HomeStack.make;
